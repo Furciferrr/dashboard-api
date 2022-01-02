@@ -1,5 +1,8 @@
 {
-	"cSpell.words": ["tslog"],
+	"cSpell.words": [
+		"middlewares",
+		"tslog"
+	],
 	"[typescript]": {
 		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
 	},
